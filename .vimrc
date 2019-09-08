@@ -13,6 +13,7 @@ set startofline
 set wildmenu
 set wrap
 set linebreak
+set expandtab
 
 set tabstop=4
 set numberwidth=4
