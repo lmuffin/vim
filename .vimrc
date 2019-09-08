@@ -20,5 +20,4 @@ set numberwidth=4
 set shiftwidth=4
 
 set background=light
-set whichwrap+=h,l
 set showbreak=+   
