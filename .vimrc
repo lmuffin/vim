@@ -1,6 +1,7 @@
 syntax on
 
-set autoindent
+set autoindent 
+set cindent
 set smartindent
 set confirm
 set cursorline
@@ -15,7 +16,6 @@ set startofline
 set wildmenu
 set wrap
 set linebreak
-set expandtab
 
 set tabstop=4
 set numberwidth=4
