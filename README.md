@@ -99,5 +99,3 @@ Personal vim settings
 #### `showbreak`, `sbr`
 * string 옵션.  한 줄이 너무 길어 여러 줄로 표현될 때, 아래쪽 줄들이 윗쪽 줄에서 이어짐을 설정한 기호를 사용해 가장 왼쪽에 표시합니다.
 * 추천하는 값은 다음과 같습니다.
-
-Hello
